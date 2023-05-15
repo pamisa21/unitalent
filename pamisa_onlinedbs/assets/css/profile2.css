@@ -1,0 +1,41 @@
+body{
+	background-color: palegreen;
+}
+h1{
+	text-align: center;
+	position: relative;
+	top:  20px;
+	font-weight: bold;
+	color: blueviolet;
+
+}
+h2
+{
+	font-weight: bold;
+	color: #d914a3
+}
+.text1
+{
+	text-align: center;
+	color: #060425;
+	position: relative;
+	bottom: 80px;
+}
+.text2
+{
+	text-align: right;
+	position: relative;
+	bottom: 180px;
+}
+.text0
+{
+	text-align: left;
+	position: relative;
+	top: 40px;
+}
+p {
+	color: #ce0707;
+}
+li{
+	color: #ce0707;;
+}

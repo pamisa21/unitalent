@@ -1,0 +1,27 @@
+body{background-color: palegreen;
+	text-align: center;
+
+}
+.table table-striped{
+	color: blueviolet;
+}
+table, th, td {
+  border: 1px solid;
+  margin-top: 0px;
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.more{
+  position: relative;
+  top: -16px;
+  left: 460px;
+  border-radius: 15px;
+  height: 50px;
+  }
+
+
+.h1, .h2{
+  color: #e51212;
+}
